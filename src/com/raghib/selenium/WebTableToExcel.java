@@ -7,6 +7,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+//Reading the data from Web table and Writing the data to Excel sheet.
+
 public class WebTableToExcel extends BaseClass {
 
 	public static WebDriver driver;

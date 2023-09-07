@@ -24,6 +24,8 @@ import com.raghib.selenium.BaseClass;
  * For using .csv format, google for CSVReader libraries.
  */
 
+//Here we are just reading the data from excel sheet and printing into console.
+
 public class ReadingTheDataFromExcelFile extends BaseClass {
 
 	XSSFRow row;

@@ -22,6 +22,8 @@ import org.testng.annotations.Test;
 import com.raghib.selenium.BaseClass;
 import com.raghib.selenium.XLUtility;
 
+//Reading the data from Excel sheet and Providing the data to Login Page
+
 public class DataDrivenTest extends BaseClass {
 	
 	WebDriver driver;
